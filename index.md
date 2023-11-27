@@ -4,6 +4,7 @@
 #### Adding an Image
 ![Image of GitHub Student Developer Pack](https://premiumdada.com/wp-content/uploads/2021/01/GitHub-Student-Developer-Pack.jpg)
 
+### Adding a code example
 ~~~
 >>>print("Hello, World!")
 Hello, World!
